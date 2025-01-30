@@ -1,0 +1,51 @@
+Task_ID,Tool,Task_Name,Autonomy,Adaptability,Interactivity,Usability,Functionality,Reconfigurability,Total_Score
+1,Sentiment_Analysis,Customer Review Analysis,1,1,0,2,1,1,6
+2,Sentiment_Analysis,Product Feedback,1,1,0,2,1,1,6
+3,Sentiment_Analysis,Support Response,1,1,0,2,1,1,6
+4,Multimodal,Product Image Classification,2,2,1,2,2,2,11
+5,Gemini,Quality Control Image,3,3,3,3,3,3,18
+6,Multimodal,Visual Asset Categorization,2,2,1,2,2,2,11
+7,Multimodal,Document Translation,2,2,1,2,2,2,11
+8,Multimodal,Product Description Translation,2,2,1,2,2,2,11
+9,Gemini,Support Message Translation,3,3,3,3,3,3,18
+10,Gemini,Comprehensive Document Analysis,3,3,3,3,3,3,18
+11,Gemini,Video Meeting Summary,3,3,3,3,3,3,18
+12,Gemini,Company Blog Post,3,3,3,3,3,3,18
+13,Sentiment_Analysis,Social Media Monitoring,1,1,0,2,1,1,6
+14,Gemini,Audio Support Analysis,3,3,3,3,3,3,18
+15,Sentiment_Analysis,Employee Feedback Email,1,1,0,2,1,1,6
+16,Multimodal,Legal Document Translation,2,2,1,2,2,2,11
+17,Gemini,Training Video Assessment,3,3,3,3,3,3,18
+18,Gemini,Contract Review,3,3,3,3,3,3,18
+19,Gemini,Financial Report Analysis,3,3,3,3,3,3,18
+20,Gemini,Medical Consultation Analysis,3,3,3,3,3,3,18
+21,Gemini,Email Generation,3,3,3,3,3,3,18
+22,Gemini,Safety Compliance Check,3,3,3,3,3,3,18
+23,Sentiment_Analysis,Market Research Feedback,1,1,0,2,1,1,6
+24,Multimodal,Retail Display Compliance,2,2,1,2,2,2,11
+25,Sentiment_Analysis,App Store Reviews,1,1,0,2,1,1,6
+26,Gemini,Technical Manual Translation,3,3,3,3,3,3,18
+27,Sentiment_Analysis,Investor Relations,1,1,0,2,1,1,6
+28,Multimodal,Retail Checkout Detection,2,2,1,2,2,2,11
+29,Gemini,HR Policy Review,3,3,3,3,3,3,18
+30,Multimodal,Marketing Campaign Translation,2,2,1,2,2,2,11
+31,Sentiment_Analysis,Support Ticket Priority,1,1,0,2,1,1,6
+32,Gemini,Product Demo Analysis,3,3,3,3,3,3,18
+33,Multimodal,Security Camera Analysis,2,2,1,2,2,2,11
+34,Sentiment_Analysis,Team Morale Check,1,1,0,2,1,1,6
+35,Gemini,Client Meeting Summary,3,3,3,3,3,3,18
+36,Gemini,Logistics Route Data Analysis,3,3,3,3,3,3,18
+37,Multimodal,Detecting Industrial Equipment,2,2,1,2,2,2,11
+38,Gemini,Customer Journey Analysis,3,3,3,3,3,3,18
+39,Gemini,Market Research Analysis,3,3,3,3,3,3,18
+40,Multimodal,Healthcare Equipment Verification,2,2,1,2,2,2,11
+41,Multimodal,Patient Instructions Translation,2,2,1,2,2,2,11
+42,Gemini,Patient Feedback Response Variants,3,3,3,3,3,3,18
+43,Gemini,Board Meeting Analysis Email,3,3,3,3,3,3,18
+44,Multimodal,Agricultural and Farming,2,2,1,2,2,2,11
+45,Gemini,Automated Tweets,3,3,3,3,3,3,18
+46,Gemini,Manufacturing Image Analysis,3,3,3,3,3,3,18
+47,Multimodal,Educational Content Translation,2,2,1,2,2,2,11
+48,Gemini,Educational Content,3,3,3,3,3,3,18
+49,Gemini,Online Course Engagement,3,3,3,3,3,3,18
+50,Multimodal,Investment Report Translation,2,2,1,2,2,2,11
